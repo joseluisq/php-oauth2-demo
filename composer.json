@@ -1,0 +1,7 @@
+{
+  "description": "Simple OAuth 2 Demo",
+  "require": {
+    "php": ">=5.5",
+    "bshaffer/oauth2-server-php": "~1.8"
+  }
+}
